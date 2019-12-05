@@ -9,6 +9,7 @@ Remove the 2 screws that hold the upper and lower boards together
 Disconnect the pigtail cable from the upper board
 
 Disconnect the upper board from the lower board
+Be careful not to lose the headphone jack
 
 Using hot glue, fix ROTA to the controller's upper board as shown in (figure)
 

@@ -12,7 +12,7 @@
 - [Usage](#usage)
   - [First Use](#first-use)
   - [Configuring Rapidfire](#configuring-rapidfire)
-  - [Recovering From Forgotten Password](#recovering-from-forgotten-password)
+  - [Recovering Forgotten Password](#recovering-forgotten-password)
 - [Updating Firmware](#updating-firmware)
   
 # About
@@ -84,6 +84,8 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 
 ## Configuring Rapidfire
 
-## Recovering From Forgotten Password
+## Recovering Forgotten Passwords
+If you have forgotten the web page password, admin password, or access point password, you can double tap the controller sync button within the first five seconds of powering your controller on which will cause ROTA to apply it's default credential settings. You can then use the default credentials to connect to the ROTA access point and reconfigure it to your personal settings.
 
 # Updating Firmware
+ROTA comes with an automatic update function. If this function is active in your configuration and ROTA is connected to a network with internet connectivity,

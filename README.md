@@ -88,4 +88,15 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 If you have forgotten the web page password, admin password, or access point password, you can double tap the controller sync button within the first five seconds of powering your controller on which will cause ROTA to apply it's default credential settings. You can then use the default credentials to connect to the ROTA access point and reconfigure it to your personal settings.
 
 # Updating Firmware
-ROTA comes with an automatic update function. If this function is active in your configuration and ROTA is connected to a network with internet connectivity,
+ROTA comes with an automatic update feature. If this feature is enabled in your configuration settings and ROTA is connected to a network with internet connectivity, it will attempt to download and install the latest firmware release from this repo. If this feature is disabled in your configuration settings, you will need to follow these steps to update the ROTA firmware.
+
+**1.** Download the [latest release](https://github.com/justcallmekoko/ROTA/releases/latest) of the ROTA firmware
+
+**2.** Navigate to the firmware update page on ROTA
+  - `http://192.168.4.1/update` if you are on the ROTA access point
+  - `[domain name].local/update` if ROTA is connected to your local network
+**3.** `browse` for the firmware .bin file you downloaded
+
+**4.** Click `update`
+
+ROTA will install the new update and automatically restart.

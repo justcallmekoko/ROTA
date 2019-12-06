@@ -24,31 +24,31 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 **1.** Remove the two plastic grip covers, battery cover, and battery
 **2.** Remove the five outer screws that hold the case together
 
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0155.jpg?raw=true" width="375"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0155.jpg?raw=true" width="450"></p>
 
-<p align="center"><i>Firgure 1</i></p>
+<p align="center"><i>Figure 1</i></p>
 
 **3.** Flip the controller onto its front and remove the back panel
  
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/IMG_0156.JPG?raw=true" width="375"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/IMG_0156.JPG?raw=true" width="450"></p>
 
-<p align="center"><i>Firgure 2</i></p>
+<p align="center"><i>Figure 2</i></p>
 
 **4.** Remove the two screws that hold the upper and lower boards together shown in Figures 3 and 4
 
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0160.jpg?raw=true" width="375"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0160.jpg?raw=true" width="450"></p>
 
-<p align="center"><i>Firgure 3</i></p>
+<p align="center"><i>Figure 3</i></p>
 
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0162.jpg?raw=true" width="375"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0162.jpg?raw=true" width="450"></p>
 
-<p align="center"><i>Firgure 4</i></p>
+<p align="center"><i>Figure 4</i></p>
 
 
 **5.** Disconnect the pigtail cable from the upper board shown in Figure 5
 
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0157.jpg?raw=true" width="375"></p>
-<p align="center"><i>Firgure 5</i></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0157.jpg?raw=true" width="450"></p>
+<p align="center"><i>Figure 5</i></p>
 
 **6.** Disconnect the upper board from the lower board. Be careful not to lose the headphone jack
 **7.** Using hot glue, fix ROTA to the controller's upper board as shown in Figure 2
@@ -59,16 +59,16 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 **12.** Close the controller case with the back panel and the five larger screws from Figure 1
 **13.** Snap the two plastic grip covers, battery, and battery cover back into place
 
-<p align="center"><i>Firgures 6-14</i></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_1.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_3.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/VCC2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/GND2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/RT2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/LT2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/SYN2.jpg?raw=true" width="375"></p>
-<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/LED2.jpg?raw=true" width="375"></p>
+<p align="center"><i>Figure 6-14</i></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_1.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/segment_3.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/VCC2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/GND2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/RT2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/LT2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/SYN2.jpg?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/LED2.jpg?raw=true" width="450"></p>
 
 # Usage
 

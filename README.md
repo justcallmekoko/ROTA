@@ -22,6 +22,7 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 
 # Installation
 **1.** Remove the two plastic grip covers, battery cover, and battery
+
 **2.** Remove the five outer screws that hold the case together
 
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0155.jpg?raw=true" width="450"></p>
@@ -34,7 +35,7 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 
 <p align="center"><i>Figure 2</i></p>
 
-**4.** Remove the two screws that hold the upper and lower boards together shown in Figures 3 and 4
+**4.** Remove the two screws that hold the upper and lower boards together shown in <b><i>Figures 3 and 4</b></i>
 
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0160.jpg?raw=true" width="450"></p>
 
@@ -45,18 +46,25 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 <p align="center"><i>Figure 4</i></p>
 
 
-**5.** Disconnect the pigtail cable from the upper board shown in Figure 5
+**5.** Disconnect the pigtail cable from the upper board shown in <b><i>Figure 5</b></i>
 
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/IMG_0157.jpg?raw=true" width="450"></p>
 <p align="center"><i>Figure 5</i></p>
 
 **6.** Disconnect the upper board from the lower board. Be careful not to lose the headphone jack
-**7.** Using hot glue, fix ROTA to the controller's upper board as shown in Figure 2
-**8.** Solder the six connections shown in Figures 6-14
+
+**7.** Using hot glue, fix ROTA to the controller's upper board as shown in <b><i>Figure 2</b></i>
+
+**8.** Solder the six connections shown in <b><i>Figures 6-14</b></i>
+
 **9.** Press-fit the upper and lower boards back together
-**10.** Reconnect the pigtail cable to the upper board from Figure 5 
-**11.** Secure the upper and lower boards with the two smaller screws from Figures 3 and 4
-**12.** Close the controller case with the back panel and the five larger screws from Figure 1
+
+**10.** Reconnect the pigtail cable to the upper board from <b><i>Figure 5</b></i> 
+
+**11.** Secure the upper and lower boards with the two smaller screws from <b><i>Figures 3 and 4</b></i>
+
+**12.** Close the controller case with the back panel and the five larger screws from <b><i>Figure 1</b></i>
+
 **13.** Snap the two plastic grip covers, battery, and battery cover back into place
 
 <p align="center"><i>Figure 6-14</i></p>

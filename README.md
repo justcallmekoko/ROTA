@@ -14,6 +14,7 @@
   - [Configuring Rapidfire](#configuring-rapidfire)
   - [Recovering Forgotten Password](#recovering-forgotten-password)
 - [Updating Firmware](#updating-firmware)
+- [FAQ](#faq)
   
 # About
 ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox One controller. Rather than pressing a combination of buttons to change modes and rates of fire with no GUI, the user can configure ROTA's rapidfire settings over WiFi via web app. Installation is simple and there are no extra buttons required. While this modification works properly in all version of the Xbox One controller, this repo will discuss ROTA's installation and functionality with the Xbox One S controller.
@@ -96,21 +97,37 @@ _Default Username and Password Settings_
 | Access Point Password    | ROTA                 |
 | mDNS Domain Name         | rota-rapidfire.local |
 
-1. Power the controller on. The controller light should blink ten times to indicate ROTA has configured its WiFi access point
-2. Connect to the ROTA WiFi access point using the default password ROTA12345678
+**1.** Power the controller on. The controller light should blink ten times to indicate ROTA has configured its WiFi access point
+
+**2.** Connect to the **ROTA** WiFi access point using the default password **ROTA12345678**
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/rota_ap_edited.png?raw=true" width="450"></p>
  
-3. In your web browser, navigate to http://192.168.4.1
-4. When prompted for credentials, enter ROTA for the Username and Password
+**3.** In your web browser, navigate to [http://192.168.4.1](google.com)
+
+**4.** When prompted for credentials, enter **ROTA** for the Username and Password
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/username_passw_cropped.png?raw=true" width="450"></p>
  
-5. On the Home page, click Settings to configure your personal admin settings for ROTA
+**5.** On the **Home** page, click **Settings** to configure your personal admin settings for ROTA
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/main_page_settings_button.png?raw=true" width="450"></p>
  
-6. Using the settings page, you can configure your personal usage settings for ROTA. 
-Note: To save any changes made, you must click Apply. For changes to take effect, you must click Restart
+**6.** Using the settings page, you can configure your personal usage settings for ROTA. 
+
+**Note:** To save any changes made, you must click **Apply**. For changes to take effect, you must click **Restart**
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/admin_settings.png?raw=true" width="450"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/wifi_connection_settings.png?raw=true" width="500"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/access_point_settings.png?raw=true" width="600"></p>
    
-Note: If ROTA is configured to connect to your home network, you will need to use the URL shown under mDNS Settings to access ROTA from your web browser shown here
+**Note:** If ROTA is configured to connect to your home network, you will need to use the URL shown under **mDNS Settings** to access ROTA from your web browser shown here
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/mdns_settings_3.png?raw=true" width="750"></p>
  
-7. Use the Home page to adjust fire rate and mode of the mod and use the controller sync button to toggle the mod on and off
-Note: If you have forgotten any usernames or passwords, you can force ROTA to apply its default factory settings by double pressing the controller sync button within the first five seconds of the controller powering on
+**7.** Use the **Home** page to adjust fire rate and mode of the mod and use the controller sync button to toggle the mod on and off
+
+**Note: If you have forgotten any usernames or passwords, you can force ROTA to apply its default factory settings by double pressing the controller sync button within the first five seconds of the controller powering on. Refer to [this](#recovering-forgotten-passwords)**
 
 
 
@@ -133,3 +150,5 @@ ROTA comes with an automatic update feature. If this feature is enabled in your 
 **4.** Click `update`
 
 ROTA will install the new update and automatically restart.
+
+# FAQ

@@ -95,6 +95,7 @@ ROTA comes with an automatic update feature. If this feature is enabled in your 
 **2.** Navigate to the firmware update page on ROTA
   - `http://192.168.4.1/update` if you are on the ROTA access point
   - `[domain name].local/update` if ROTA is connected to your local network
+
 **3.** `browse` for the firmware .bin file you downloaded
 
 **4.** Click `update`

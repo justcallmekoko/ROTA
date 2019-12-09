@@ -11,6 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
   - [First Use](#first-use)
+    -[Default Username and Password Settings](#default-username-and-password-settings)
   - [Configuring Rapidfire](#configuring-rapidfire)
   - [Recovering Forgotten Password](#recovering-forgotten-password)
 - [Updating Firmware](#updating-firmware)
@@ -85,7 +86,7 @@ _The following instructions assume you already own and are proficient with a sol
 ## First Use
 First Use Instructions
 
-_Default Username and Password Settings_
+##### _Default Username and Password Settings_
 
 | Field                    | Value                |
 | ------------------------ | -------------------- |
@@ -132,6 +133,18 @@ _Default Username and Password Settings_
 
 
 ## Configuring Rapidfire
+The mode and fire rate for the mod are configured using the main page of ROTA's web application.
+The mod can be toggled on and off using the Xbox controller's Sync button.
+
+| Setting                 | Description                                               | Type         |
+| ----------------------- | --------------------------------------------------------- | :----------: |
+| Full Auto Right Trigger | Only the right trigger will fire fully automatic          | Radio Button |
+| Full Auto Akimbo        | Both the left and right trigger will fire fully automatic | Radio Button |
+| Rounds Per Minute       | The rate at which the rounds are fired                    | Integer      |
+
+After adjusting the rapidfire settings to your preferred configuration, you need to click **Apply** for the changes to take effect
+
+<p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/WebAppEdited/main_page_edited.png?raw=true"></p>
 
 ## Recovering Forgotten Passwords
 If you have forgotten the web page password, admin password, or access point password, you can double tap the controller sync button within the first five seconds of powering your controller on which will cause ROTA to apply it's default credential settings. You can then use the default credentials to connect to the ROTA access point and reconfigure it to your personal settings.

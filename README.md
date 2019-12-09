@@ -93,9 +93,9 @@ First Use Instructions
 | Admin Username           | ROTA                 |
 | Admin Password           | ROTA                 |
 | WiFi Connection SSID     | ROTA                 |
-| WiFi Connection Password | ROTA12345678         |
+| WiFi Connection Password | ROTA                 |
 | Access Point SSID        | ROTA                 |
-| Access Point Password    | ROTA                 |
+| Access Point Password    | ROTA12345678         |
 | mDNS Domain Name         | rota-rapidfire.local |
 
 **1.** Power the controller on. The controller light should blink ten times to indicate ROTA has configured its WiFi access point

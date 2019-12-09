@@ -21,6 +21,8 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 ## YouTube
 
 # Installation
+_The following instructions assume you already own and are proficient with a soldering iron, solder, and hot glue gun._
+
 **1.** Remove the two plastic grip covers, battery cover, and battery
 
 **2.** Remove the five outer screws that hold the case together
@@ -79,8 +81,38 @@ ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/Edited/LED2.jpg?raw=true" width="450"></p>
 
 # Usage
-
 ## First Use
+First Use Instructions
+
+_Default Username and Password Settings_
+
+| Field                    | Value                |
+| ------------------------ | -------------------- |
+| Admin Username           | ROTA                 |
+| Admin Password           | ROTA                 |
+| WiFi Connection SSID     | ROTA                 |
+| WiFi Connection Password | ROTA12345678         |
+| Access Point SSID        | ROTA                 |
+| Access Point Password    | ROTA                 |
+| mDNS Domain Name         | rota-rapidfire.local |
+
+1. Power the controller on. The controller light should blink ten times to indicate ROTA has configured its WiFi access point
+2. Connect to the ROTA WiFi access point using the default password ROTA12345678
+ 
+3. In your web browser, navigate to http://192.168.4.1
+4. When prompted for credentials, enter ROTA for the Username and Password
+ 
+5. On the Home page, click Settings to configure your personal admin settings for ROTA
+ 
+6. Using the settings page, you can configure your personal usage settings for ROTA. 
+Note: To save any changes made, you must click Apply. For changes to take effect, you must click Restart
+   
+Note: If ROTA is configured to connect to your home network, you will need to use the URL shown under mDNS Settings to access ROTA from your web browser shown here
+ 
+7. Use the Home page to adjust fire rate and mode of the mod and use the controller sync button to toggle the mod on and off
+Note: If you have forgotten any usernames or passwords, you can force ROTA to apply its default factory settings by double pressing the controller sync button within the first five seconds of the controller powering on
+
+
 
 ## Configuring Rapidfire
 

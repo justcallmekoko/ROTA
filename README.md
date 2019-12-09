@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
   - [First Use](#first-use)
-    -[Default Username and Password Settings](#default-username-and-password-settings)
+    - [Default Username and Password Settings](#default-username-and-password-settings)
   - [Configuring Rapidfire](#configuring-rapidfire)
   - [Recovering Forgotten Password](#recovering-forgotten-password)
 - [Updating Firmware](#updating-firmware)

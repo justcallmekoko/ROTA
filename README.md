@@ -2,7 +2,8 @@
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/rota.PNG?raw=true" width="450"></p>
 <p align="center">
   <b>A WiFi enabled Xbox One rapid-fire mod</b>
-  <br>
+  <br><br>
+  <a href="https://www.tindie.com/stores/justcallmekoko/rota-controller-mod/? ref=offsite_badges&utm_source=sellers_justcallmekoko&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 </p>
 
 # Table of Constants

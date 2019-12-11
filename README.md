@@ -1,4 +1,4 @@
-# ROTA
+# ROTA Controller Mod
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/rota.PNG?raw=true" width="450"></p>
 <p align="center">
   <b>A WiFi enabled Xbox One rapid-fire mod</b>

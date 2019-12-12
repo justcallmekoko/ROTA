@@ -22,6 +22,7 @@
 ROTA is a WiFi enabled rapidfire modification designed to function with the Xbox One controller. Rather than pressing a combination of buttons to change modes and rates of fire with no GUI, the user can configure ROTA's rapidfire settings over WiFi via web app. Installation is simple and there are no extra buttons required. While this modification works properly in all version of the Xbox One controller, this repo will discuss ROTA's installation and functionality with the Xbox One S controller.
 
 ## YouTube
+<p align="left"><a href="https://www.youtube.com/watch?v=Ci7KqMRJ9D4"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ROTA/blob/master/Images/thumbnail.jpg?raw=true" width="500"></a></p>
 
 # Installation
 _The following instructions assume you already own and are proficient with a soldering iron, solder, and hot glue gun._

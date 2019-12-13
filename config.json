@@ -1,0 +1,13 @@
+{
+    "fire_rate": 491,
+	"connect_to_wifi": false,
+	"auto_update": true,
+	"fire_mode": "rt",
+	"apSSID": "ROTA",
+	"apPassword": "ROTA12345678",
+	"clientSSID": "ROTA",
+	"clientPassword": "ROTA",
+	"hostname": "rapidfire",
+	"www_username": "ROTA",
+	"www_password": "ROTA"
+}
